@@ -1,12 +1,12 @@
 ### Hi there! I am Din 👋
 
-🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2020.
-💼 I am currently working as a Team Lead at SyNet Pakistan.
-🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications, leveraging technologies like React, Node.js, and Java.
-🌱 I’m currently enhancing my Project Management skills to complement my technical expertise.
-📬 You can reach me via email at azzadaamir786@gmail.com.
-🔗 Connect with me on LinkedIn: Muhammad Din.
-🌐 Explore my portfolio at muhammad-din.vercel.app.
+- 🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2020.
+- 💼 I am currently working as a Team Lead at SyNet Pakistan.
+- 🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications, leveraging technologies like React, Node.js, and Java.
+- 🌱 I’m currently enhancing my Project Management skills to complement my technical expertise.
+- 📬 You can reach me via email at azzadaamir786@gmail.com.
+- 🔗 Connect with me on LinkedIn: Muhammad Din.
+- 🌐 Explore my portfolio at muhammad-din.vercel.app.
 
 ### Languages and Tools :
 <div>
