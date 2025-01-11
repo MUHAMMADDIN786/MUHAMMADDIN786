@@ -1,10 +1,13 @@
-### Hi there! I am Hammad 👋
+### Hi there! I am Din 👋
 
-- 🔭 I completed my Internship in Frontend Web-Development
-- 👀 I’m currently Joined SyNet Pakistan as a Team Lead
-- 💬 I’m currently learning new Project Management Skills
-- 👯 How to reach me through Email-Id: maadi192000@gmail.com
-- 📫 Also you visit my Linkedin Profile to reach me: **www.linkedin.com/in/hammad192000**
+🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2020.
+💼 I am currently working as a Team Lead at SyNet Pakistan.
+🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications, leveraging technologies like React, Node.js, and Java.
+🌱 I’m currently enhancing my Project Management skills to complement my technical expertise.
+📬 You can reach me via email at azzadaamir786@gmail.com.
+🔗 Connect with me on LinkedIn: Muhammad Din.
+🌐 Explore my portfolio at muhammad-din.vercel.app.
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
