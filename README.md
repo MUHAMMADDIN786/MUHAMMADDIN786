@@ -1,6 +1,6 @@
 ### Hi there! I am Din 👋
 
-- 🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2020.
+- 🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2022.
 - 💼 I am currently working as a Team Lead at SyNet Pakistan.
 - 🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications, leveraging technologies like React, Node.js, and Java.
 - 🌱 I’m currently enhancing my Project Management skills to complement my technical expertise.
