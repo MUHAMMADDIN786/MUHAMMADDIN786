@@ -6,7 +6,7 @@
 - 🌱 I’m currently enhancing my skills in DevOps practices, microservices architecture, and backend development, as outlined in my resume, to complement my technical expertise.
 - 📬 You can reach me via email at azzadaamir786@gmail.com
 - 🔗 Connect with me on LinkedIn: www.linkedin.com/in/muhammaddin786/
-- 🌐 Explore my portfolio at muhammad-din.vercel.app](https://muhammad-din.vercel.app/
+- 🌐 Explore my portfolio at https://muhammad-din.vercel.app/
 
 ### Languages and Tools :
 <div>
