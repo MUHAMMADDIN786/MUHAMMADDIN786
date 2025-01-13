@@ -1,6 +1,6 @@
 ### Hi there! I am Din 👋
 
-- 🎓 I completed my Bachelor of Science in Computer Systems Engineering from Sukkur IBA University in 2022.
+- 🎓 I completed my Bachelor of Science in Computer System Engineering from Sukkur IBA University in 2022.
 - 💼 I am currently working as a Senior Full-Stack Developer at MushGPT.com, leveraging advanced LLMs like GPT models, Gemini, and Llama2/3 to develop cutting-edge AI bot systems.
 - 🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications using technologies and tools such as React, Node.js, Java (Spring Boot), Python (Flask), Docker, AWS (EC2, S3, Lambda), Jenkins, Kubernetes, MySQL, MongoDB, and PostgreSQL.
 - 🌱 I’m currently enhancing my skills in DevOps practices, microservices architecture, and backend development, as outlined in my resume, to complement my technical expertise.
