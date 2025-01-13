@@ -11,6 +11,16 @@
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <!-- AWS -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<!-- Machine Learning -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Artificial_intelligence_icon.png" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
+<!-- AI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/AI_logo.png" title="Artificial Intelligence" alt="Artificial Intelligence" width="40" height="40"/>&nbsp;
+<!-- Pinecone -->
+<img src="https://pinecone.io/images/logo-dark.svg" title="Pinecone" alt="Pinecone" width="40" height="40"/>&nbsp;
+<!-- LLMs -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png" title="LLMs" alt="LLMs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
