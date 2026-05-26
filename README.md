@@ -4,7 +4,7 @@
 - 💼 I am currently working as a Senior Full-Stack Developer at MushGPT.com, leveraging advanced LLMs like GPT models, Gemini, and Llama2/3 to develop cutting-edge AI bot systems.
 - 🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications using technologies and tools such as React, Node.js, Java (Spring Boot), Python (Flask), Docker, AWS (EC2, S3, Lambda), Jenkins, Kubernetes, MySQL, MongoDB, and PostgreSQL.
 - 🌱 I’m currently enhancing my skills in DevOps practices, microservices architecture, and backend development, as outlined in my resume, to complement my technical expertise.
-- 📬 You can reach me via email at azzadaamir786@gmail.com
+- 📬 You can reach me via email at mdin.engineer19@gmail.com
 - 🔗 Connect with me on LinkedIn: www.linkedin.com/in/muhammaddin786/
 - 🌐 Explore my portfolio at https://muhammad-din.vercel.app/
 
