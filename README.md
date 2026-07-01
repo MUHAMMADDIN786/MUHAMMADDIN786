@@ -1,30 +1,63 @@
-### Hi there! I am Din 👋
+# Hi there, I'm Muhammad Din 👋
+### Senior AI Engineer & Backend Systems Architect
 
-- 🎓 I completed my Bachelor of Science in Computer System Engineering from Sukkur IBA University.
-- 💼 I am currently working as a Senior Full-Stack Developer at MushGPT.com, leveraging advanced LLMs like GPT models, Gemini, and Llama2/3 to develop cutting-edge AI bot systems.
-- 🛠️ With over 6 years of experience, I specialize in designing, developing, and deploying scalable enterprise-level applications using technologies and tools such as React, Node.js, Java (Spring Boot), Python (Flask), Docker, AWS (EC2, S3, Lambda), Jenkins, Kubernetes, MySQL, MongoDB, and PostgreSQL.
-- 🌱 I’m currently enhancing my skills in DevOps practices, microservices architecture, and backend development, as outlined in my resume, to complement my technical expertise.
-- 📬 You can reach me via email at mdin.engineer19@gmail.com
-- 🔗 Connect with me on LinkedIn: www.linkedin.com/in/muhammaddin786/
-- 🌐 Explore my portfolio at https://muhammad-din.vercel.app/
+I am a Senior Software Engineer specializing in building scalable backend architectures, high-performance microservices, and conversational Voice AI systems. I bridge the gap between enterprise backend standards (Java/Spring Boot, Kafka) and cutting-edge Generative AI workflows (OpenAI/Claude tool-calling, Vector Databases, Vapi/Retell voice integrations).
 
-### Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=ai" title="Artificial Intelligence" alt="Artificial Intelligence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" **alt="VisualStudio" width="40" height="40"/>
-  
-</div>
-  
+*   👀 **Coding since**: 2019
+*   🎓 **Education**: Bachelor in Engineering, Specialization in Computer System Engineering (Graduated 2022)
+*   🌱 **Currently focused on**: Conversational Voice AI, RAG platforms, Kafka messaging, and scalable microservices.
+*   🛠️ **Featured Platform**: Creator of **[AgentStack.io](https://agentstack-web.vercel.app/)** (Interactive cost estimators for AI & automation infrastructure).
 
-  
+---
 
+## 💼 Professional Experience
+
+*   **Creator & Lead Engineer | TestKaro.net** *(Jan 2026 - Present)*
+    *   Designed and engineered Pakistan's interactive mock exam platform using server-side Next.js architectures.
+*   **Senior AI / Backend Engineer | StoriedLife (Canada - Remote)** *(Dec 2022 - Mar 2026)*
+    *   Architected Conversational Voice Agents (Vapi/Retell) and LLM-powered intake pipelines. Integrated automatic phone routing and transcription.
+*   **Senior Full-Stack & Backend Engineer | Fastech Systems** *(Mar 2022 - Nov 2023)*
+    *   Developed core Java Spring Boot microservices, Kafka event streams, and load balancers. Migrated server-side views to Thymeleaf/React.
+*   **Java Backend Developer | Impros.io (China - Remote)** *(Jan 2021 - Feb 2022)*
+    *   Developed enterprise SOAP/REST web services, centralized logging frameworks, and custom database schemas.
+
+---
+
+## 🛠️ Technical Stack
+
+### 🖥️ Backend & Orchestration
+*   **Java & Spring**: Spring Boot Microservices, Spring Security, Spring MVC, Aspect-Oriented Programming (AOP), Hystrix Cloud Services
+*   **Node.js**: Express.js, TypeScript serverless architectures, custom API middleware
+*   **Message Brokers & Routing**: Apache Kafka, API Gateways, Load Balancers, SOAP & REST Web Services
+*   **Logging & Testing**: Centralized Logging Systems, Swagger, Postman, Jest
+
+### 🧠 Generative AI & Vector DBs
+*   **LLM Tool Calling**: Structured Outputs (OpenAI SDK, Claude Tooling), LangChain
+*   **Voice Platforms**: Vapi.ai, Retell AI, Bland.ai (custom webhook integrations)
+*   **Vector Databases**: pgvector, Pinecone, ChromaDB
+*   **Synthesizers**: ElevenLabs, Cartesia, Deepgram
+
+### 🎨 Frontend & Frameworks
+*   **Frameworks**: Next.js (App Router, SSG), React.js (Context API)
+*   **Styling & UI**: Javascript (ES6+), HTML5, CSS3 / SASS, Bootstrap 5
+
+### 💾 Databases & Infrastructure
+*   **Relational**: PostgreSQL, MySQL, MS SQL Server
+*   **NoSQL**: MongoDB (Document-based caching)
+*   **Methodology**: Figma design mapping, UML (Usecase, Class, Sequence, Entity Diagrams)
+*   **IDEs**: IntelliJ IDEA, VS Code, Eclipse, Netbeans
+
+---
+
+## 🚀 Open-Source Projects
+
+*   **[AgentStack.io](https://agentstack-web.vercel.app/)**: Live cost simulator and specs comparison dashboard for conversational AI agents (Vapi, Retell) and automation setups (n8n, Make, Zapier).
+*   **AI Lead Automation Microservice**: A production-grade Node.js/TypeScript server performing LLM structured analysis (`gpt-4o-mini`) and syncing contacts dynamically to CRM webhooks.
+
+---
+
+## 📬 Connect with me
+
+*   **LinkedIn**: [linkedin.com/in/muhammaddin786](https://www.linkedin.com/in/muhammaddin786/)
+*   **Portfolio**: [muhammad-din.vercel.app](https://muhammad-din.vercel.app/)
+*   **Email**: [mdin.bees19@iba-suk.edu.pk](mailto:mdin.bees19@iba-suk.edu.pk)
