@@ -60,4 +60,4 @@ I am a Senior Software Engineer specializing in building scalable backend archit
 
 *   **LinkedIn**: [linkedin.com/in/muhammaddin786](https://www.linkedin.com/in/muhammaddin786/)
 *   **Portfolio**: [muhammad-din.vercel.app](https://muhammad-din.vercel.app/)
-*   **Email**: [mdin.bees19@iba-suk.edu.pk](mailto:mdin.bees19@iba-suk.edu.pk)
+*   **Email**: [mdin.engineer19@gmail.com](mailto:mdin.engineer19@gmail.com)
